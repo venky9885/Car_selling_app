@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950039809749",
+    "firebase_url": "https://carsfin-5a805.firebaseio.com",
+    "project_id": "carsfin-5a805",
+    "storage_bucket": "carsfin-5a805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950039809749:android:f71573219afd9d0f90dc5c",
+        "android_client_info": {
+          "package_name": "com.carsfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950039809749-mhcdk6a34chotrs8gm2uqio6d3h6qids.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carsfin",
+            "certificate_hash": "640026d43c6f1803cc5ffce5ed7928035a6998c5"
+          }
+        },
+        {
+          "client_id": "950039809749-bj6b89jbt5qjeur0ukhlomip4gn1lklo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8R2L-AG6azvD2yXRCrv4-WhWCiceZr28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950039809749-bj6b89jbt5qjeur0ukhlomip4gn1lklo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

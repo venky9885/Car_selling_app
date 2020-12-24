@@ -1,0 +1,51 @@
+name: Cars
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  google_fonts: ^1.1.0
+  flutter_absolute_path: ^1.0.6
+  hexcolor: ^1.0.6
+  geocoding: ^1.0.2 
+  eva_icons_flutter: ^2.0.0
+  firebase_auth: ^0.18.3+1
+  simple_animations: ^2.4.2
+  firebase_core: any
+  image: ^2.1.19
+  fluttertoast: ^7.1.5
+  geolocator: ^6.1.8+1
+  geocoder: ^0.2.1
+  pin_code_fields: ^6.0.1
+  country_pickers: ^1.3.0
+  cloud_firestore: any
+  image_picker: ^0.6.7+14
+  page_transition: ^1.1.4
+  firebase_storage: any
+  flutter_datetime_picker: ^1.4.0
+  multi_image_picker: ^4.7.14
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+  
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: assets/icons/custom_icons.ttf
